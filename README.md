@@ -19,6 +19,8 @@
 - 🌱 Вивчаю пов'язані теми backend-розробки
 - 📫 Як зв’язатися зі мною: [Telegram](https://t.me/kolya2)
 
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=melnichukmykola&show_icons=true&count_private=true&hide=stars&theme=tokyonight)
+
 ## 🚀 Технології
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

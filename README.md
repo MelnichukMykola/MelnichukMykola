@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/melnichukmykola/MelnichukMykola/blob/main/assets/animation.gif?raw=true" alt="Developer Skills" />
+</p>
+
 <h1 align="center">Привіт 👋 Мене звуть Микола!</h1>
 
 <p align="center">

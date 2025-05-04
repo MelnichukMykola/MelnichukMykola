@@ -23,8 +23,8 @@
 
 ## 📊 Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=futdevelop&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=futdevelop&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=melnichukmykola&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melnichukmykola&layout=compact&theme=tokyonight)
 
 ---
 

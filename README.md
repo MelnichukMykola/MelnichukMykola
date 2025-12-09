@@ -2,24 +2,23 @@
   <img src="https://github.com/melnichukmykola/MelnichukMykola/blob/main/assets/animation.gif?raw=true" alt="Developer Skills" />
 </p>
 
-<h1 align="center">Привіт 👋 Мене звуть Микола!</h1>
+<h1 align="center">Hi 👋 My name is Mykola!</h1>
 
 <p align="center">
   <a href="https://t.me/kolya2"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-## 🧑‍💻 Про мене
+## 🧑‍💻 About Me
+I am a Frontend Developer from Ukraine.
+I graduated from the Frontend course at [Mate Academy](https://mate.academy)  
+I have worked on **a large number of projects**, using modern technologies and best development practices.
+I constantly improve my skills and grow as a developer.
 
-Я — Frontend розробник. 🇺🇦  
-Закінчив курс **Frontend** в [Mate Academy](https://mate.academy)  
-Маю **велику кількість проєктів**, у яких використовую сучасні технології та підходи.  
-Постійно вдосконалюю навички та розвиваюся як розробник.
+- 🔭 I work on real-world and pet projects
+- 🌱 I’m learning backend-related topics
+- 📫 Contact me: [Telegram](https://t.me/kolya2)
 
-- 🔭 Працюю над реальними та pet-проєктами
-- 🌱 Вивчаю пов'язані теми backend-розробки
-- 📫 Як зв’язатися зі мною: [Telegram](https://t.me/kolya2)
-
-## 🚀 Технології
+## 🚀 Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -35,7 +34,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-## 📊 Моя статистика :
+## 📊 My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=melnichukmykola&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
